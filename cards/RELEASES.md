@@ -1,7 +1,7 @@
 # Cards: all releases
 
 ## [Cards 1.1](https://github.com/tintako-apps/history/releases/tag/cards-v1.1)
-Published 2026-11-21 · first released in [cards/releases/v1.1](https://github.com/tintako-apps/cards/releases/tag/v1.1)
+Published 2026-11-21 · first released in tintako-apps/cards as v1.1
 
 Files: `Cards-1.1-1-start.png`, `Cards-1.1-2-favourite.png`, `Cards-1.1-3-camera-offer.png`, `Cards-1.1.apk`
 
@@ -15,7 +15,7 @@ An offline wallet for loyalty, library, gym and club cards, made for E Ink. Card
 - The repository is now github.com/tintako-apps/cards (the old wallet address still works).
 
 ## [Cards 1.0.7](https://github.com/tintako-apps/history/releases/tag/cards-v1.0.7)
-Published 2026-11-17 · first released in [cards/releases/v1.0.7](https://github.com/tintako-apps/cards/releases/tag/v1.0.7)
+Published 2026-11-17 · first released in tintako-apps/cards as v1.0.7
 
 Files: `Cards-1.0.7-1-start.png`, `Cards-1.0.7-2-open-card.png`, `Cards-1.0.7-3-add-card.png`, `Cards-1.0.7.apk`
 
@@ -28,7 +28,7 @@ An offline wallet for loyalty, library, gym and club cards, made for E Ink. Card
 - Loading, search and other notices now sit in a dotted, rounded frame under the header.
 
 ## [Wallet 1.0.6](https://github.com/tintako-apps/history/releases/tag/cards-v1.0.6)
-Published 2026-11-09 · first released in [cards/releases/v1.0.6](https://github.com/tintako-apps/cards/releases/tag/v1.0.6)
+Published 2026-11-09 · first released in tintako-apps/cards as v1.0.6
 
 Files: `Wallet-1.0.6.apk`
 
@@ -41,7 +41,7 @@ An offline, private wallet for your loyalty, library, gym and club cards on E In
 - More privacy: if the phone closes Wallet in the background, it opens fresh on your cards and remembers nothing you typed or where you were. Your saved cards, language and screenshot protection stay as they are.
 
 ## [Wallet 1.0.5](https://github.com/tintako-apps/history/releases/tag/cards-v1.0.5)
-Published 2026-11-08 · first released in [cards/releases/v1.0.5](https://github.com/tintako-apps/cards/releases/tag/v1.0.5)
+Published 2026-11-08 · first released in tintako-apps/cards as v1.0.5
 
 Files: `Wallet-1.0.5.apk`
 
@@ -58,7 +58,7 @@ An offline, private wallet for your loyalty, library, gym and club cards on E In
 - Long screen titles shrink to fit instead of being cut off with "…".
 
 ## [Wallet 1.0.4](https://github.com/tintako-apps/history/releases/tag/cards-v1.0.4)
-Published 2026-11-06 · first released in [cards/releases/v1.0.4](https://github.com/tintako-apps/cards/releases/tag/v1.0.4)
+Published 2026-11-06 · first released in tintako-apps/cards as v1.0.4
 
 Files: `Wallet-1.0.4.apk`
 
@@ -77,7 +77,7 @@ An offline, private wallet for your loyalty, library, gym and club cards on E In
 - Long labels on the Add a card screen are no longer cut off.
 
 ## [Wallet 1.0.3](https://github.com/tintako-apps/history/releases/tag/cards-v1.0.3)
-Published 2026-11-04 · first released in [cards/releases/v1.0.3](https://github.com/tintako-apps/cards/releases/tag/v1.0.3)
+Published 2026-11-04 · first released in tintako-apps/cards as v1.0.3
 
 Files: `Wallet-1.0.3.apk`
 

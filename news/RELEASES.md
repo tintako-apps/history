@@ -1,7 +1,7 @@
 # News: all releases
 
 ## [News 1.14](https://github.com/tintako-apps/history/releases/tag/news-v1.14)
-Published 2026-11-21 · first released in [news/releases/v1.14](https://github.com/tintako-apps/news/releases/tag/v1.14)
+Published 2026-11-21 · first released in tintako-apps/news as v1.14
 
 Files: `News-1.14-1-start.png`, `News-1.14-2-add-source.png`, `News-1.14-3-reader.png`, `News-1.14.apk`
 
@@ -19,7 +19,7 @@ A calm news reader made for E Ink. You choose the sources, and there is no accou
 **Permissions:** unchanged (Internet, Camera). No new servers.
 
 ## [News 1.13.1](https://github.com/tintako-apps/history/releases/tag/news-v1.13.1)
-Published 2026-11-17 · first released in [news/releases/v1.13.1](https://github.com/tintako-apps/news/releases/tag/v1.13.1)
+Published 2026-11-17 · first released in tintako-apps/news as v1.13.1
 
 Files: `News-1.13.1-1-start.png`, `News-1.13.1-2-add-source.png`, `News-1.13.1-3-reader.png`, `News-1.13.1.apk`
 
@@ -30,7 +30,7 @@ A calm news reader made for E Ink. You choose the sources, and there is no accou
 - On Add source, the Add button stays in place while the feed is looked up, with the "Looking for the feed" line above it.
 
 ## [News 1.13](https://github.com/tintako-apps/history/releases/tag/news-v1.13)
-Published 2026-11-17 · first released in [news/releases/v1.13](https://github.com/tintako-apps/news/releases/tag/v1.13)
+Published 2026-11-17 · first released in tintako-apps/news as v1.13
 
 Files: `News-1.13-1-start.png`, `News-1.13-2-add-source.png`, `News-1.13-3-reader.png`, `News-1.13.apk`
 
@@ -45,7 +45,7 @@ A calm news reader made for E Ink. You choose the sources, and there is no accou
 - Privacy, terms and licences name Tintako as the maker and give a contact address.
 
 ## [News 1.12](https://github.com/tintako-apps/history/releases/tag/news-v1.12)
-Published 2026-11-09 · first released in [news/releases/v1.12](https://github.com/tintako-apps/news/releases/tag/v1.12)
+Published 2026-11-09 · first released in tintako-apps/news as v1.12
 
 Files: `News-1.12.apk`
 
@@ -64,7 +64,7 @@ News is a clean, ad-free RSS reader made for E Ink screens. It keeps only the ar
 - After Android closes the app in the background, nothing from the last session is kept; it opens on Today.
 
 ## [News 1.11](https://github.com/tintako-apps/history/releases/tag/news-v1.11)
-Published 2026-11-08 · first released in [news/releases/v1.11](https://github.com/tintako-apps/news/releases/tag/v1.11)
+Published 2026-11-08 · first released in tintako-apps/news as v1.11
 
 Files: `News-1.11.apk`
 
@@ -81,7 +81,7 @@ News is a clean, ad-free RSS reader made for E Ink screens. It keeps only the ar
 - Open-source licenses now list every library the app includes, with SLF4J's full license text.
 
 ## [News 1.10](https://github.com/tintako-apps/history/releases/tag/news-v1.10)
-Published 2026-11-06 · first released in [news/releases/v1.10](https://github.com/tintako-apps/news/releases/tag/v1.10)
+Published 2026-11-06 · first released in tintako-apps/news as v1.10
 
 Files: `News-1.10.apk`
 
@@ -104,7 +104,7 @@ News is a clean, ad-free RSS reader made for E Ink screens. It keeps only the ar
 - Unfollowing a source or deleting a saved story now tells you what goes and what stays.
 
 ## [News 1.9](https://github.com/tintako-apps/history/releases/tag/news-v1.9)
-Published 2026-11-04 · first released in [news/releases/v1.9](https://github.com/tintako-apps/news/releases/tag/v1.9)
+Published 2026-11-04 · first released in tintako-apps/news as v1.9
 
 Files: `News-1.9.apk`
 

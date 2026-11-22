@@ -1,7 +1,7 @@
 # Radio: all releases
 
 ## [Radio 2.5](https://github.com/tintako-apps/history/releases/tag/radio-v2.5)
-Published 2026-11-21 · first released in [radio/releases/v2.5](https://github.com/tintako-apps/radio/releases/tag/v2.5)
+Published 2026-11-21 · first released in tintako-apps/radio as v2.5
 
 Files: `Radio-2.5-1-start.png`, `Radio-2.5-2-playing.png`, `Radio-2.5-3-podcast.png`, `Radio-2.5.apk`
 
@@ -13,7 +13,7 @@ Player buttons now span the full screen width, evenly spaced, on every screen si
 Signed with the same key as earlier versions, so it installs over them.
 
 ## [Radio 2.4](https://github.com/tintako-apps/history/releases/tag/radio-v2.4)
-Published 2026-11-21 · first released in [radio/releases/v2.4](https://github.com/tintako-apps/radio/releases/tag/v2.4)
+Published 2026-11-21 · first released in tintako-apps/radio as v2.4
 
 Files: `Radio-2.4-1-start.png`, `Radio-2.4-2-playing.png`, `Radio-2.4-3-opml-import.png`, `Radio-2.4.apk`
 
@@ -30,7 +30,7 @@ Internet radio and podcasts, made for E Ink: black and white, no animations, no 
 - The audio output button in the Tintako Launcher widget opens the Audio output window.
 
 ## [Radio 2.3.1](https://github.com/tintako-apps/history/releases/tag/radio-v2.3.1)
-Published 2026-11-20 · first released in [radio/releases/v2.3.1](https://github.com/tintako-apps/radio/releases/tag/v2.3.1)
+Published 2026-11-20 · first released in tintako-apps/radio as v2.3.1
 
 Files: `Radio-2.3.1-1-start.png`, `Radio-2.3.1-2-playing.png`, `Radio-2.3.1-3-podcast.png`, `Radio-2.3.1.apk`
 
@@ -49,7 +49,7 @@ Internet radio and podcasts, made for E Ink: black and white, no animations, no 
 - If a speaker can't play a station, also after next or previous, the sound comes back to the phone with a note saying why, instead of the app closing.
 
 ## [Radio 2.3](https://github.com/tintako-apps/history/releases/tag/radio-v2.3)
-Published 2026-11-17 · first released in [radio/releases/v2.3](https://github.com/tintako-apps/radio/releases/tag/v2.3)
+Published 2026-11-17 · first released in tintako-apps/radio as v2.3
 
 Files: `Radio-2.3-1-start.png`, `Radio-2.3-2-playing.png`, `Radio-2.3-3-audio-output.png`, `Radio-2.3.apk`
 
@@ -65,7 +65,7 @@ Internet radio and podcasts, made for E Ink: black and white, no animations, no 
 - The Tip jar now points to ko-fi.com/tintako.
 
 ## [Radio 2.2](https://github.com/tintako-apps/history/releases/tag/radio-v2.2)
-Published 2026-11-09 · first released in [radio/releases/v2.2](https://github.com/tintako-apps/radio/releases/tag/v2.2)
+Published 2026-11-09 · first released in tintako-apps/radio as v2.2
 
 Files: `Radio-2.2.apk`
 
@@ -86,7 +86,7 @@ Radio is an internet radio and podcast app made for E Ink. It has no accounts, a
 - Station counts now use the thousands separator of the app language.
 
 ## [Radio 2.1](https://github.com/tintako-apps/history/releases/tag/radio-v2.1)
-Published 2026-11-08 · first released in [radio/releases/v2.1](https://github.com/tintako-apps/radio/releases/tag/v2.1)
+Published 2026-11-08 · first released in tintako-apps/radio as v2.1
 
 Files: `Radio-2.1.apk`
 
@@ -106,7 +106,7 @@ Radio is an internet radio and podcast app made for E Ink. It has no accounts, a
 - "Station unavailable" no longer stays on the player after the connection comes back.
 
 ## [Radio 2.0](https://github.com/tintako-apps/history/releases/tag/radio-v2.0)
-Published 2026-11-06 · first released in [radio/releases/v2.0](https://github.com/tintako-apps/radio/releases/tag/v2.0)
+Published 2026-11-06 · first released in tintako-apps/radio as v2.0
 
 Files: `Radio-2.0.apk`
 
@@ -127,7 +127,7 @@ Radio is an internet radio and podcast app made for E Ink. It has no accounts, a
 - Podcasts with no new episodes are now correctly marked as refreshed.
 
 ## [Radio 1.8](https://github.com/tintako-apps/history/releases/tag/radio-v1.8)
-Published 2026-11-04 · first released in [radio/releases/v1.8](https://github.com/tintako-apps/radio/releases/tag/v1.8)
+Published 2026-11-04 · first released in tintako-apps/radio as v1.8
 
 Files: `Radio-1.8.apk`
 

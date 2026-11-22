@@ -1,7 +1,7 @@
 # Books: all releases
 
 ## [Books 0.9](https://github.com/tintako-apps/history/releases/tag/books-v0.9)
-Published 2026-11-21 · first released in [books/releases/v0.9](https://github.com/tintako-apps/books/releases/tag/v0.9)
+Published 2026-11-21 · first released in tintako-apps/books as v0.9
 
 Files: `Books-0.9-1-start.png`, `Books-0.9-2-reading.png`, `Books-0.9-3-contents.png`, `Books-0.9.apk`
 
@@ -14,7 +14,7 @@ A simple offline e-reader made for E Ink. Copy books from your computer and they
 - Loading, an error and an empty book folder are shown as a strip under the header
 
 ## [Books 0.8.2](https://github.com/tintako-apps/history/releases/tag/books-v0.8.2)
-Published 2026-11-19 · first released in [books/releases/v0.8.2](https://github.com/tintako-apps/books/releases/tag/v0.8.2)
+Published 2026-11-19 · first released in tintako-apps/books as v0.8.2
 
 Files: `Books-0.8.2-1-start.png`, `Books-0.8.2-2-reading.png`, `Books-0.8.2-3-contents.png`, `Books-0.8.2.apk`
 
@@ -26,7 +26,7 @@ A simple offline e-reader made for E Ink. Copy books from your computer and they
 Installs over 0.8.1 and keeps your books and progress. Coming from 0.8 or older? See the update note in the README: export a backup first, then reinstall.
 
 ## [Books 0.8.1](https://github.com/tintako-apps/history/releases/tag/books-v0.8.1)
-Published 2026-11-19 · first released in [books/releases/v0.8.1](https://github.com/tintako-apps/books/releases/tag/v0.8.1)
+Published 2026-11-19 · first released in tintako-apps/books as v0.8.1
 
 Files: `Books-0.8.1-1-start.png`, `Books-0.8.1-2-reading.png`, `Books-0.8.1-3-contents.png`, `Books-0.8.1.apk`
 
@@ -43,7 +43,7 @@ Your books stay in their folder; the backup brings back your progress and bookma
 - Books is now signed with its own release key instead of a development key, so it can be published in app stores. Features are the same as in 0.8.
 
 ## [Books 0.8](https://github.com/tintako-apps/history/releases/tag/books-v0.8)
-Published 2026-11-17 · first released in [books/releases/v0.8](https://github.com/tintako-apps/books/releases/tag/v0.8)
+Published 2026-11-17 · first released in tintako-apps/books as v0.8
 
 Files: `Books-0.8-1-start.png`, `Books-0.8-2-reading.png`, `Books-0.8-3-contents.png`, `Books-0.8.apk`
 
@@ -57,7 +57,7 @@ A simple offline e-reader made for E Ink. Copy books from your computer and they
 - The app is called Books in every language.
 
 ## [Books 0.7.1](https://github.com/tintako-apps/history/releases/tag/books-v0.7.1)
-Published 2026-11-09 · first released in [books/releases/v0.7.1](https://github.com/tintako-apps/books/releases/tag/v0.7.1)
+Published 2026-11-09 · first released in tintako-apps/books as v0.7.1
 
 Files: `Books-0.7.1.apk`
 
@@ -70,7 +70,7 @@ A simple offline e-reader for E Ink devices. Copy books from your computer and t
 - Removing a book folder now also clears its "Not added" line in General.
 
 ## [Books 0.7](https://github.com/tintako-apps/history/releases/tag/books-v0.7)
-Published 2026-11-08 · first released in [books/releases/v0.7](https://github.com/tintako-apps/books/releases/tag/v0.7)
+Published 2026-11-08 · first released in tintako-apps/books as v0.7
 
 Files: `Books-0.7.apk`
 
@@ -89,7 +89,7 @@ A simple offline e-reader for E Ink devices. Copy books from your computer and t
 - Long labels in German and other languages are no longer cut in General.
 
 ## [Books 0.6](https://github.com/tintako-apps/history/releases/tag/books-v0.6)
-Published 2026-11-06 · first released in [books/releases/v0.6](https://github.com/tintako-apps/books/releases/tag/v0.6)
+Published 2026-11-06 · first released in tintako-apps/books as v0.6
 
 Files: `Books-0.6.apk`
 
@@ -111,7 +111,7 @@ A simple offline e-reader for E Ink devices. Copy books from your computer and t
 - PDF covers now show the first page instead of a zoomed-in crop.
 
 ## [Books 0.5](https://github.com/tintako-apps/history/releases/tag/books-v0.5)
-Published 2026-11-04 · first released in [books/releases/v0.5](https://github.com/tintako-apps/books/releases/tag/v0.5)
+Published 2026-11-04 · first released in tintako-apps/books as v0.5
 
 Files: `Books-0.5.apk`
 

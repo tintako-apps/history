@@ -1,7 +1,7 @@
 # Ink Browser: all releases
 
 ## [Ink Browser 1.1.1](https://github.com/tintako-apps/history/releases/tag/browser-v1.1.1)
-Published 2026-11-19 · first released in [browser/releases/v1.1.1](https://github.com/tintako-apps/browser/releases/tag/v1.1.1)
+Published 2026-11-19 · first released in tintako-apps/browser as v1.1.1
 
 Files: `InkBrowser-1.1.1-1-start.png`, `InkBrowser-1.1.1-2-tabs.png`, `InkBrowser-1.1.1-3-reader.png`, `InkBrowser-1.1.1.apk`
 
@@ -17,7 +17,7 @@ A calm web browser made for E Ink devices. Pages turn screen by screen, and ther
 - A link opened from another app now opens even when the app was closed, instead of the last tab
 
 ## [Browser 1.1](https://github.com/tintako-apps/history/releases/tag/browser-v1.1)
-Published 2026-11-17 · first released in [browser/releases/v1.1](https://github.com/tintako-apps/browser/releases/tag/v1.1)
+Published 2026-11-17 · first released in tintako-apps/browser as v1.1
 
 Files: `Browser-1.1-1-start.png`, `Browser-1.1-2-tabs.png`, `Browser-1.1-3-reader.png`, `Browser-1.1.apk`
 
@@ -36,7 +36,7 @@ A calm web browser made for E Ink devices. Pages turn screen by screen, and ther
 - How to use said four tabs; the limit is three
 
 ## [Browser 1.0.1](https://github.com/tintako-apps/history/releases/tag/browser-v1.0.1)
-Published 2026-11-11 · first released in [browser/releases/v1.0.1](https://github.com/tintako-apps/browser/releases/tag/v1.0.1)
+Published 2026-11-11 · first released in tintako-apps/browser as v1.0.1
 
 Files: `Browser-1.0.1.apk`
 
@@ -48,7 +48,7 @@ A calm web browser made for E Ink. It installs over 1.0.
 - Browser no longer closes when a page offers to log in with a passkey, for example the Mudita Forum's login. Passkeys would need Google's services, which Browser leaves out, so pages now offer the usual password login instead.
 
 ## [Browser 1.0](https://github.com/tintako-apps/history/releases/tag/browser-v1.0)
-Published 2026-11-09 · first released in [browser/releases/v1.0](https://github.com/tintako-apps/browser/releases/tag/v1.0)
+Published 2026-11-09 · first released in tintako-apps/browser as v1.0
 
 Files: `Browser-1.0.apk`
 
@@ -68,7 +68,7 @@ A calm web browser made for E Ink. Pages turn screen by screen, a reader mode ke
 - Not yet measured on a real device. On the emulator, nothing of the browser keeps running once it leaves the screen.
 
 ## [Browser 1.0 RC1](https://github.com/tintako-apps/history/releases/tag/browser-v1.0-rc1) (pre-release)
-Published 2026-11-08 · first released in [browser/releases/v1.0-rc1](https://github.com/tintako-apps/browser/releases/tag/v1.0-rc1)
+Published 2026-11-08 · first released in tintako-apps/browser as v1.0-rc1
 
 Files: `Browser-1.0-rc1.apk`
 
@@ -91,7 +91,7 @@ A calm web browser made for E Ink. Pages turn screen by screen, a reader mode ke
 - The Tabs window's lists sit in one row with Bookmarks, History and Downloads.
 
 ## [Browser 0.4 beta](https://github.com/tintako-apps/history/releases/tag/browser-v0.4-beta) (pre-release)
-Published 2026-11-08 · first released in [browser/releases/v0.4-beta](https://github.com/tintako-apps/browser/releases/tag/v0.4-beta)
+Published 2026-11-08 · first released in tintako-apps/browser as v0.4-beta
 
 Files: `Browser-0.4-beta.apk`
 
@@ -114,7 +114,7 @@ A calm web browser made for E Ink. Pages turn screen by screen, a reader mode ke
 - The QR code for sharing is now centred on the screen.
 
 ## [Browser 0.3 beta](https://github.com/tintako-apps/history/releases/tag/browser-v0.3-beta) (pre-release)
-Published 2026-11-06 · first released in [browser/releases/v0.3-beta](https://github.com/tintako-apps/browser/releases/tag/v0.3-beta)
+Published 2026-11-06 · first released in tintako-apps/browser as v0.3-beta
 
 Files: `Browser-0.3-beta.apk`
 
